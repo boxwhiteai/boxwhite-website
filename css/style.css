@@ -161,6 +161,7 @@ a {
 }
 .c12 {
     grid-column: 2 /12;
+    column-gap: 10%;
 }
 .c6 {
     grid-column: 4 / 10;
