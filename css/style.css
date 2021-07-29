@@ -161,7 +161,6 @@ a {
 }
 .c12 {
     grid-column: 2 /12;
-    column-gap: 10%;
 }
 .c6 {
     grid-column: 4 / 10;
@@ -978,7 +977,7 @@ footer p a:hover {
     /* SUMMARY */
     .summary {
         grid-template-columns: 50% 50%;
-        column-gap: 10%;
+        column-gap: 5%;
     }
 
     /* BACK, FORWARD, SCROLL TO TOP */
