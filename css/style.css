@@ -977,6 +977,7 @@ footer p a:hover {
     /* SUMMARY */
     .summary {
         grid-template-columns: 50% 50%;
+        column-gap: 10%;
     }
 
     /* BACK, FORWARD, SCROLL TO TOP */
